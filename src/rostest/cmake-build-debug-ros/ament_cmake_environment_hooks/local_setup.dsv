@@ -1,0 +1,2 @@
+source;share/rostest/environment/ament_prefix_path.sh
+source;share/rostest/environment/path.sh

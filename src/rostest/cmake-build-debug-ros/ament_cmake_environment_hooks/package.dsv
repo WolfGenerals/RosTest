@@ -1,0 +1,4 @@
+source;share/rostest/local_setup.bash
+source;share/rostest/local_setup.dsv
+source;share/rostest/local_setup.sh
+source;share/rostest/local_setup.zsh
